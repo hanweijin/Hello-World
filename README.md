@@ -1,6 +1,6 @@
 # Hello-World
 ideas
 
-### My First Edit ###
+### My First Edition ###
 Hi, Kevin,
   Just mark the first edition.
